@@ -1,24 +1,31 @@
-# prajyakta-repository-
-# Hi, I'm Prajyakta Patra 👋
 
-🎓 **MCA Student**  
-💻 **Web Developer | MERN Stack Learner**  
-🌱 Passionate about building modern, responsive web applications
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prajyaktapatra/prajyaktapatra/main/profile.jpg"
+       alt="Prajyakta Patra "
+       width="200"
+       style="border-radius: 50%;" />
+</p>
 
----
+<h1 align="center">Prajyakta Patra</h1>
+
+<p align="center">
+  Software Developer | MCA Student | Web Developer
+</p>
+
+
 
 ## 👩‍💻 About Me
 
-I am an MCA student with a strong interest in **Web Development and Software Engineering**.  
-I enjoy working with modern web technologies and continuously improving my problem-solving and coding skills.
+I am an **MCA student and aspiring Software Developer** with a strong foundation in **web development** and modern JavaScript technologies.  
+I am passionate about building clean, scalable, and user-friendly applications and continuously upgrading my technical skills.
 
 - 🔭 Currently working on **React & MERN stack projects**
-- 🌱 Learning **advanced React, APIs, and backend development**
-- 👯 Looking to collaborate on **web development projects**
+- 🌱 Learning **advanced React, REST APIs, and backend development**
+- 👯 Open to **internships, entry-level roles, and project collaboration**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Email: **your-email@example.com**
 
----
+
 
 ## 🛠️ Skills & Technologies
 
@@ -38,39 +45,40 @@ I enjoy working with modern web technologies and continuously improving my probl
 - VS Code  
 - Postman  
 
----
 
 ## 📂 Projects
 
 ### 🔹 Portfolio Website
-- Personal portfolio built using **HTML, Tailwind CSS, and JavaScript**
-- Responsive design with dark/light mode
+- Personal portfolio using **HTML, Tailwind CSS, and JavaScript**
+- Responsive design with clean UI
 
 ### 🔹 E-Learning Management System
-- User-friendly LMS for students and instructors
-- Features: authentication, course listing, progress tracking
+- LMS platform for students and instructors
+- Features: authentication, course management
 
 ### 🔹 E-Commerce Website
-- Product listing, cart, and checkout functionality
-- Built using modern frontend practices
+- Product catalog, cart, and checkout workflow
+- Modern frontend architecture
 
-*(More projects coming soon…)*
 
----
 
 ## 📊 GitHub Stats
 
-![Prajyakta's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact" />
+</p>
 
----
+
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
+- GitHub: https://github.com/prajyaktapatra  
 - LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
 
----
+
 
 ⭐ *Thank you for visiting my GitHub profile!*
