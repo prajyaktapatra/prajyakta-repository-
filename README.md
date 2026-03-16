@@ -1,84 +1,75 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prajyaktapatra/prajyaktapatra/main/profile.jpg"
-       alt="Prajyakta Patra "
-       width="200"
-       style="border-radius: 50%;" />
-</p>
 
-<h1 align="center">Prajyakta Patra</h1>
+# Hi 👋, I'm Prajyakta Patra
 
-<p align="center">
-  Software Developer | MCA Student | Web Developer
-</p>
+💻 MERN Stack Learner | MCA Student | AI/ML Enthusiast 🚀
 
-
+---
 
 ## 👩‍💻 About Me
 
-I am an **MCA student and aspiring Software Developer** with a strong foundation in **web development** and modern JavaScript technologies.  
-I am passionate about building clean, scalable, and user-friendly applications and continuously upgrading my technical skills.
+- 🎓 MCA Student at GIFT Autonomous College  
+- 💼 Currently doing an **Industry-Oriented Internship Program supported by Microsoft**  
+- 🌱 Learning **Advanced MERN Stack Development and AI/ML**  
+- 💻 Passionate about **Full Stack Web Development and Intelligent Applications**  
+- 🔌 Interested in **IoT Projects using ESP32**  
+- ✨ I enjoy building **interactive real-world applications**
 
-- 🔭 Currently working on **React & MERN stack projects**
-- 🌱 Learning **advanced React, REST APIs, and backend development**
-- 👯 Open to **internships, entry-level roles, and project collaboration**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 📫 Email: **your-email@example.com**
+---
 
+## 🛠️ Technologies & Tools
 
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-## 🛠️ Skills & Technologies
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-### Frontend
-- HTML5  
-- CSS3 / Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 
-### Backend & Database
-- Node.js  
-- Express.js  
-- MongoDB  
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+NumPy | Pandas | Scikit-learn  
 
-### Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
+### 🔌 IoT
+ESP32 | Embedded C  
 
+### 🛠 Tools
+Git | GitHub | VS Code | Jupyter Notebook  
 
-## 📂 Projects
+---
 
-### 🔹 Portfolio Website
-- Personal portfolio using **HTML, Tailwind CSS, and JavaScript**
-- Responsive design with clean UI
+## 📌 Projects
 
-### 🔹 E-Learning Management System
-- LMS platform for students and instructors
-- Features: authentication, course management
+### 🌡️ Digital Thermometer & Display using ESP32
+IoT project using **ESP32 and C** to measure and display temperature in real time.
 
-### 🔹 E-Commerce Website
-- Product catalog, cart, and checkout workflow
-- Modern frontend architecture
+### 🌱 IoT-Based Vertical Farming System
+Smart farming solution using **ESP32 sensors** to monitor environmental conditions.
 
+### 🍽️ Taste Trail – Food Ordering Website
+Full-stack **MERN application** for browsing menus and ordering food.
 
+### 🎬 Netflix Movie Recommendation System
+AI/ML project using **Python and machine learning algorithms** to recommend movies based on user preferences.
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyaktapatra&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyaktapatra&layout=compact" />
-</p>
+---
 
+## 🎯 Goal
+To build **AI-powered and scalable full-stack applications** that solve real-world problems.
 
+---
 
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/prajyaktapatra  
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
-
-
-
-⭐ *Thank you for visiting my GitHub profile!*
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prajyaktapatra.visitor-badge)
